@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pankaj kushwaha
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning solution architect
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in developing solution
+- 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me pankajkus814@gmail.com
 
 <!---
